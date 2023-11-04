@@ -1,6 +1,7 @@
 # Student-Database-Management
 
 MODULES OF THE PROJECT
+
 LOGIN : It’s a multiple login interface where you can login as ADMIN or as a CLERK.
 
 Admin: The admin will have the privileges to access all the functions in the applications.
